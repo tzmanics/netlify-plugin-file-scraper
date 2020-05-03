@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-file-scraper",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Netlify Build Plugin that removes all of the files of the specified type.",
   "main": "index.js",
   "scripts": {
