@@ -1,22 +1,22 @@
 {
-  "name": "netlify-plugin-scully-scraper",
+  "name": "netlify-plugin-file-scraper",
   "version": "0.0.0",
-  "description": "A Netlify Build Plugin that removes everything but HTML files.",
+  "description": "A Netlify Build Plugin that removes all of the files of the specified type.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tzmanics/netlify-plugin-scully-scraper.git"
+    "url": "git+https://github.com/tzmanics/netlify-plugin-file-scraper.git"
   },
   "keywords": [],
   "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.dev/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tzmanics/netlify-plugin-scully-scraper/issues"
+    "url": "https://github.com/tzmanics/netlify-plugin-file-scraper/issues"
   },
-  "homepage": "https://github.com/tzmanics/netlify-plugin-scully-scraper#readme",
+  "homepage": "https://github.com/tzmanics/netlify-plugin-file-scraper#readme",
   "dependencies": {
     "glob": "^7.1.6"
   }
