@@ -1,1 +1,5 @@
-name: netlify-plugin-scully-scraper
+name: netlify-plugin-file-scraper
+inputs:
+  - name: fileType
+    description: The file extension of the file type you would like removed
+    required: true
