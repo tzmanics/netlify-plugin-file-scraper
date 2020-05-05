@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tzmanics/netlify-plugin-file-scraper#readme",
   "dependencies": {
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "readdirp": "^3.4.0"
   }
 }
